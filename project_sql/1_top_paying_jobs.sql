@@ -7,7 +7,7 @@ Question: What are the top-paying data analyst jobs?
 
 SELECT 
     job_id AS Job_ID,
-    job_title_short AS Title,
+    job_title,
     job_location AS Location,
     job_schedule_type AS Schedule,
     salary_year_avg AS Average_Salary,
