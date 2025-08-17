@@ -70,7 +70,7 @@ LIMIT 10;
 - **Diverse Role Titles**: A wide array of job titles, including *Data Analyst* and *Director of Analytics*, underscores the range of specialized roles and expertise within data analytics.
 
 
-![Top Paying Data Analyst Roles](output_image/1_top_10.png)
+![Top Paying Data Analyst Roles](/output_image/1_top%2010.png)
 
 *Figure: Average salaries for the top 10 remote data analyst roles in 2023.*
 
@@ -125,7 +125,7 @@ Below is an overview of the most sought-after skills for the top 10 highest-payi
 - **Tableau**: Widely desired, appearing 6 times
 - **Additional Skills**: R, Snowflake, Pandas, and Excel exhibit differing levels of demand
 
-![Top Skills for Data Analyst Roles](output_image/2_top_skills.png)
+![Top Skills for Data Analyst Roles](/output_image/2_top%20skills.png)
 *Figure: Skills required for the top 10 remote data analyst roles in 2023.*
 
 ### 3. In-Demand Skills for Data Analyst 
