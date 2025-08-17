@@ -24,3 +24,19 @@ FROM
     job_postings_fact
 
 LIMIT 20;
+
+SELECT 
+    COunt(job_id) AS total_jobs,
+    EXTRACT(MONTH FROM job_posted_date) AS Month_Posted
+
+FROM
+    job_postings_fact
+
+where 
+    job_title_short = 'Data Analyst'
+
+GROUP BY  
+    Month_Posted
+
+ORDER BY
+    total_jobs DESC;
